@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+ "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<title>SORENARI-TOOLS</title>
+</head>
+
+<body>
+
+<h1>SORENARI-TOOLS</h1>
+
+<h2>Wait API</h2>
+<div>
+    <ul>
+        <li><a rel="nofollow" href="/wait-api/">Wait 10 seconds</a></li>
+        <li><a rel="nofollow" href="/wait-api/?s=3">Wait 3 seconds</a></li>
+        <li><a href="/wait-api/index.php.txt">(Source)</a></li>
+    </ul>
+</div>
+
+
+<h2>HTTP Status Code API</h2>
+<div>
+    <ul>
+        <li><a rel="nofollow" href="/http-status-code-api/">200</a></li>
+        <li><a rel="nofollow" href="/http-status-code-api/?c=301">301</a></li>
+        <li><a rel="nofollow" href="/http-status-code-api/?c=302">302</a></li>
+        <li><a rel="nofollow" href="/http-status-code-api/?c=304">304</a></li>
+        <li><a rel="nofollow" href="/http-status-code-api/?c=403">403</a></li>
+        <li><a rel="nofollow" href="/http-status-code-api/?c=404">404</a></li>
+        <li><a rel="nofollow" href="/http-status-code-api/?c=500">500</a></li>
+        <li><a href="/http-status-code-api/index.php.txt">(Source)</a></li>
+    </ul>
+</div>
+
+
+<h2>Clock API</h2>
+<div>
+    <ul>
+        <li><a rel="nofollow" href="/clock-api/">Get time infos</a></li>
+        <li><a href="/clock-api/index.php.txt">(Source)</a></li>
+    </ul>
+</div>
+
+
+<h2>Multi Encoder</h2>
+<div>
+    <ul>
+        <li><a href="/multi-encoder/">Multi Encoder</a></li>
+        <li><a href="/multi-encoder/index.php.txt">(Source)</a></li>
+    </ul>
+</div>
+
+
+<h2>Go back</h2>
+<div>
+    <ul>
+        <li><a href="http://kjirou.sakura.ne.jp/mt/">それなりブログ</a></li>
+        <li><a href="http://kjirou.net/">kjirou.net</a></li>
+    </ul>
+</div>
+</body>
+</html>
